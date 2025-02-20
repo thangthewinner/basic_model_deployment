@@ -1,0 +1,37 @@
+2025-02-20 10:39:35,836 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:43:15,530 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:43:57,213 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:44:00,577 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:44:05,018 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:45:12,931 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:45:16,305 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:45:19,880 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:45:23,077 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:46:33,275 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:47:13,977 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:48:43,925 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:49:37,014 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:50:07,497 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:50:31,716 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:53:28,477 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 10:53:35,452 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:00:46,757 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:02:31,751 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:06:40,576 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:07:01,940 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:07:12,357 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2025-02-20 11:07:12,357 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predicted Prob: 0.9999998807907104 - Predicted ID: 0 - Predicte Class: Cat
+2025-02-20 11:08:40,255 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:08:56,377 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2025-02-20 11:08:56,377 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predicted Prob: 0.9999970197677612 - Predicted ID: 0 - Predicte Class: Cat
+2025-02-20 11:23:49,349 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:24:01,489 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:24:16,305 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:24:37,999 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:24:46,303 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:24:54,528 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:25:16,494 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:25:35,878 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:36:16,496 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-02-20 11:36:51,216 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predictor name: resnet18
+2025-02-20 11:36:51,216 - D:\Projects\basic_model_deployment\models\catdog_predictor.py - INFO - Predicted Prob: 0.9999957084655762 - Predicted ID: 0 - Predicte Class: Cat
