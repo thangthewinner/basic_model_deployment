@@ -11,7 +11,7 @@ A special thanks to AI VIET NAM for providing this helpful guide!
 - **logs:** Folder containing logging information when running API.
 - **middleware/:** Folder containing code for middleware.
 - **models/:** Folder containing Deep Learning weights. 
-- **readme_imgs:** Folder containing images using to write *readme.md*. (Optional)
+- **readme_imgs/:** Folder containing images using to write *readme.md*. (Optional)
 - **routes/:** Folder containing API Endpoints declaration. 
 - **schemas/:** Folder containing Pydantic model declaration.
 - **utils/:** Folder containing codes for general purpose (varying between projects).
